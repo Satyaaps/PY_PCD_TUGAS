@@ -60,3 +60,4 @@ if __name__ == "__main__":
     image_path = 'nanda.jpg'  # Change to your image path
     output_file = 'Image_Info.txt'  # Output file name
     process_image(image_path, output_file)
+
